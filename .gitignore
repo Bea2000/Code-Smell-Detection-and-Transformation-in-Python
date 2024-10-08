@@ -1,0 +1,5 @@
+**/*/__pycache__
+*.pyc
+.pytest_cache
+T1 Enunciado v2.pdf
+text.txt
